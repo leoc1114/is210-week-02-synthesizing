@@ -2,7 +2,7 @@
 # _*_ coding: utf-8 _*_
 """A corrected python file."""
 
-CHARLIE = "Brown"
+CHARLIE = "Brown" 
 VIOLET = "Gray"
 PATRICIA = "Reichardt"
 LINUS = "van Pelt"
